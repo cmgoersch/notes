@@ -43,3 +43,5 @@ git diff = zeigt den Status
 - mit q zurück
 
 code + _Dateiname_ = öffnet Datei
+
+das macht Spass
