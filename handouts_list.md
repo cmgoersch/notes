@@ -72,6 +72,16 @@ https://github.com/neuefische/hh-web-23-2/tree/main/sessions/css-positioning/css
 
 https://github.com/neuefische/hh-web-23-2/tree/main/sessions/css-positioning/challenges-css-positioning.md
 
+# Session: CSS Flexbox
+
+### Handout
+
+https://github.com/neuefische/hh-web-23-2/tree/main/sessions/css-flexbox/css-flexbox.md
+
+### Challenges
+
+https://github.com/neuefische/hh-web-23-2/tree/main/sessions/css-flexbox/challenges-css-flexbox.md
+
 ### Handout
 
 ### Challenges
