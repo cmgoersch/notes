@@ -1,5 +1,7 @@
 # Handout List
 
+https://github.com/neuefische/web-setup#-setting-up-git-and-github
+
 ## Session: Github And Markdown
 
 Handout
