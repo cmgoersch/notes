@@ -1,7 +1,5 @@
 # Handout List
 
-https://github.com/neuefische/web-setup#-setting-up-git-and-github
-
 #
 
 ###### _Montag 06.02.23_
@@ -113,6 +111,24 @@ https://github.com/neuefische/web-setup#-setting-up-git-and-github
 #### _Challenges_
 
 ###### \* https://github.com/neuefische/hh-web-23-2/tree/main/sessions/css-flexbox/challenges-css-flexbox.md
+
+#
+
+###### _Freitag 10.02.23_
+
+# Session: CSS Selectors
+
+### Handout
+
+https://github.com/neuefische/hh-web-23-2/tree/main/sessions/css-selectors/css-selectors.md
+
+#### _Challenges_
+
+> https://github.com/neuefische/hh-web-23-2/tree/main/sessions/css-selectors/challenges-css-selectors.md
+
+### Challenges
+
+> >
 
 #
 
